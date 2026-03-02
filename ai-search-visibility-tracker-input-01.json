@@ -1,0 +1,41 @@
+{
+  "competitors": [
+    "canva"
+  ],
+  "country": "AU",
+  "debugMode": true,
+  "deduplicateSources": true,
+  "includeAnswerText": true,
+  "includeCompetitors": false,
+  "includeSources": true,
+  "language": "en",
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  },
+  "queries": [
+    "best tools for video making"
+  ],
+  "queryGroups": [
+    {
+      "groupName": "Video",
+      "queries": [
+        "Best video making tools"
+      ]
+    }
+  ],
+  "saveHtml": false,
+  "saveScreenshot": false,
+  "seedKeywords": [
+    "YouTube video"
+  ],
+  "targetName": "YouTube",
+  "template": "saas",
+  "locations": [],
+  "targetAliases": [],
+  "engines": [
+    "perplexity"
+  ],
+  "maxConcurrency": 1,
+  "navigationTimeoutSecs": 60,
+  "maxRetries": 2
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Best video making tools",
+    "queryGroup": "Video",
+    "template": "saas",
+    "engine": "perplexity",
+    "country": "AU",
+    "language": "en",
+    "classification": "target_present",
+    "targetName": "YouTube",
+    "targetPresent": true,
+    "targetMatchType": "exact",
+    "sourceCount": 2,
+    "answerLength": 1625,
+    "timestamp": "2026-03-02T05:15:45.347Z"
+  }
+]
